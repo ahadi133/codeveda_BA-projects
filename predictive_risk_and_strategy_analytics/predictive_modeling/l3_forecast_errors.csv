@@ -1,0 +1,6 @@
+model,MAE,RMSE
+Naive (last value),20.33,21.32
+Mean of last 6 months,5.94,6.75
+Mean of training,19.94,20.94
+Simple Exp. Smoothing,8.47,9.51
+Holt (trend),8.58,9.69

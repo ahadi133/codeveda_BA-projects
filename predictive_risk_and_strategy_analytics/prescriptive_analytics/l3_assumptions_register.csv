@@ -1,0 +1,10 @@
+assumption,value
+margin_rate,0.3
+horizon_months,12.0
+offer_discount,0.1
+offer_months,3.0
+admin_fee,5.0
+success,0.3
+budget,1500.0
+broad_cost_factor,0.5
+broad_success,0.15

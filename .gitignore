@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large/local analytical artifacts
+*.joblib
+*.db
+
+# Generated app/runtime files
+.streamlit/

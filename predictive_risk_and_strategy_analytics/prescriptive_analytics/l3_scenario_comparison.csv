@@ -1,0 +1,9 @@
+scenario,budget,offered,cost,expected_net_benefit,overlap_with_base
+Base,1500,57,1498,1166,57
+Budget -20%,1200,45,1200,1028,45
+Offer cost +25%,1500,45,1500,728,45
+Success rate 20% (lower),1500,48,1281,287,48
+Success rate 40%,1500,57,1498,2054,57
+Customer value -30%,1500,54,1422,370,54
+Customer value +30%,1500,57,1498,1965,57
+Success 10%,1500,0,0,0,0

@@ -1,0 +1,58 @@
+Customer_ID,p_churn,risk_band,cost,value,expected_net_benefit,recommended_action
+C0573,0.79,High,29.69,296.24,40.63,Offer retention discount
+C0550,0.74,High,31.18,314.17,38.14,Offer retention discount
+C0402,0.74,High,30.48,305.75,37.75,Offer retention discount
+C0562,0.75,High,30.2,302.36,37.47,Offer retention discount
+C0653,0.75,High,29.75,297.04,36.81,Offer retention discount
+C0654,0.74,High,29.89,298.66,36.52,Offer retention discount
+C0352,0.69,High,30.22,302.69,32.54,Offer retention discount
+C0204,0.69,High,30.37,304.42,32.52,Offer retention discount
+C0057,0.66,High,31.79,321.52,32.28,Offer retention discount
+C0462,0.72,High,27.81,273.71,31.39,Offer retention discount
+C0176,0.67,High,29.94,299.3,30.43,Offer retention discount
+C0443,0.66,High,30.48,305.71,29.6,Offer retention discount
+C0066,0.71,High,26.31,255.67,28.35,Offer retention discount
+C0328,0.64,High,30.4,304.81,28.31,Offer retention discount
+C0386,0.65,High,28.05,276.62,26.15,Offer retention discount
+C0003,0.58,Medium,32.69,332.24,25.46,Offer + support-team callback
+C0135,0.62,High,29.71,296.57,25.23,Offer retention discount
+C0227,0.6,High,29.84,298.08,24.22,Offer retention discount
+C0574,0.6,High,30.0,300.06,24.03,Offer + support-team callback
+C0036,0.61,High,29.47,293.65,23.86,Offer retention discount
+C0662,0.63,High,27.4,268.78,23.4,Offer retention discount
+C0530,0.62,High,27.54,270.54,22.94,Offer retention discount
+C0350,0.62,High,27.69,272.27,22.9,Offer retention discount
+C0553,0.59,Medium,29.32,291.85,22.55,Offer retention discount
+C0155,0.62,High,27.22,266.58,22.27,Offer retention discount
+C0458,0.59,Medium,28.13,277.52,20.65,Offer retention discount
+C0061,0.56,Medium,28.62,283.46,19.41,Offer retention discount
+C0607,0.56,Medium,28.45,281.41,18.87,Offer + support-team callback
+C0097,0.6,High,25.23,242.71,18.55,Offer retention discount
+C0363,0.53,Medium,29.11,289.3,17.31,Offer retention discount
+C0421,0.54,Medium,27.87,274.39,16.85,Offer retention discount
+C0063,0.53,Medium,28.33,279.94,16.49,Offer + support-team callback
+C0110,0.52,Medium,28.6,283.21,15.64,Offer retention discount
+C0239,0.62,High,21.36,196.27,15.21,Offer + support-team callback
+C0343,0.64,High,20.31,183.67,14.97,Offer retention discount
+C0042,0.63,High,20.68,188.17,14.76,Offer + support-team callback
+C0356,0.64,High,19.84,178.09,14.25,Offer + support-team callback
+C0288,0.52,Medium,27.47,269.64,14.19,Offer retention discount
+C0008,0.59,Medium,21.66,199.91,13.57,Offer + support-team callback
+C0496,0.51,Medium,27.01,264.1,13.17,Offer retention discount
+C0105,0.51,Medium,26.6,259.16,13.14,Offer + support-team callback
+C0456,0.55,Medium,23.2,218.38,12.88,Offer retention discount
+C0035,0.51,Medium,26.63,259.52,12.69,Offer retention discount
+C0280,0.49,Medium,27.78,273.38,12.53,Offer retention discount
+C0171,0.56,Medium,22.02,204.3,12.05,Offer retention discount
+C0196,0.55,Medium,22.4,208.8,11.97,Offer + support-team callback
+C0226,0.59,Medium,20.3,183.64,11.94,Offer + support-team callback
+C0591,0.61,High,19.21,170.57,11.81,Offer retention discount
+C0583,0.57,Medium,21.03,192.35,11.8,Offer + support-team callback
+C0616,0.56,Medium,20.61,187.34,10.88,Offer + support-team callback
+C0338,0.56,Medium,20.75,189.0,10.8,Offer + support-team callback
+C0399,0.61,High,18.0,155.99,10.76,Offer + support-team callback
+C0619,0.47,Medium,27.14,265.68,9.99,Offer + support-team callback
+C0438,0.45,Medium,27.74,272.84,8.82,Offer retention discount
+C0002,0.51,Medium,21.26,195.12,8.52,Offer + support-team callback
+C0048,0.59,Medium,16.63,139.61,8.0,Offer retention discount
+C0156,0.57,Medium,16.9,142.74,7.72,Offer + support-team callback

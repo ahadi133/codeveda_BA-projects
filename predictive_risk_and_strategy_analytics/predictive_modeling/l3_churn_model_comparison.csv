@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,roc_auc,TN,FP,FN,TP
+Logistic Regression,0.859,0.511,0.253,0.338,0.808,549,23,71,24
+Logistic Reg (balanced),0.774,0.36,0.758,0.488,0.815,444,128,23,72
+Decision Tree (depth 5),0.951,0.844,0.8,0.822,0.906,558,14,19,76
+Random Forest,0.931,0.945,0.547,0.693,0.927,569,3,43,52
