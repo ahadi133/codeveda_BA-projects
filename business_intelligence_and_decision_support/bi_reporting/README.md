@@ -6,6 +6,10 @@
 
 Provide a self-service reporting asset for monitoring sentiment and engagement across social-media content.
 
+## Dashboard Preview
+
+![Social media sentiment dashboard preview](Dashboard%20Preview.png)
+
 ## Business Snapshot
 
 - **710** cleaned posts analyzed.
@@ -17,6 +21,7 @@ Provide a self-service reporting asset for monitoring sentiment and engagement a
 ## Included Files
 
 - `social_media_sentiment_dashboard.pbix` — editable Power BI workbook for local presentation.
+- `Dashboard Preview.png` — screenshot of the report dashboard.
 - `hashtag_summary.csv` — ranked hashtag-level posts and engagement.
 
 ## Recommended Report Views
